@@ -66,6 +66,10 @@ If you don't prefer to use GitHub, you can download the assets from the followin
 - [Power Toys for .NET Compact Framework 3.5 (Legacy Update)](https://legacyupdate.net/download-center/download/13442/power-toys-for-.net-compact-framework-3.5)
 - [Microsoft Device Emulator (Legacy)](https://legacyupdate.net/download-center/download/5352/microsoft-device-emulator-3.0-standalone-release)
 
+### Additional resources
+- [Dissecting a C# Application: Inside SharpDevelop](https://web.archive.org/web/20070121151050/http://www.apress.com/free/content/Dissecting_A_CSharp_Application.pdf)
+  - [Accompanying resources](https://web.archive.org/web/20070120003019/http://support.apress.com/1861008171/sharpdevelop_wroxedition.zip)
+
 ## For the Beckhoff Devs
 
 For those of you who want to develop for Beckhoff devices using TwinCAT ADS, simply add the `TwinCAT.Ads.dll` .NET Assembly reference located at `C:\TwinCAT\AdsApi\.NET\CE\v2.0\` to your project.
